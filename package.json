@@ -1,0 +1,20 @@
+{
+  "name": "siteum",
+  "version": "1.0.0",
+  "description": "Improved Skycons by Darksky with typings for TypeScript.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/siteum.git"
+  },
+  "author": "EltaSwaniawski",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "devDependencies": {
+    "prettier": "1.19.1",
+    "tslint": "5.20.1",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.7.5"
+  },
+  "homepage": "https://github.com/ShayneFranecki/siteum.git"
+}
